@@ -1,5 +1,5 @@
 ---
-title: Objets itérables ou conteneurs
+title: Variables et affectations
 description: This is meta description
 
 ---
