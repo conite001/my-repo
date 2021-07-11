@@ -1,6 +1,6 @@
 author = []
 baseURL = "/"
-categories = [""]
+categories = ["Introduction à python", "Variables et affectations", "Chaînes de caractères", "Objets itérables ou conteneurs", "Contrôle du flux d’instructions", "Fonctions, Modules et Packages", "Classes et POO", "Introduction à matplotlib"]
 date = ""
 description = "lriehoipezgiofdhn kefhsdvcx jnkjcx nkjn bdfjsbnxkjvdsjnbi dfksi pfdsib n posdkfjcvn i pdsfln bkfdlnkci bndqoib ck i fdnoqskldskwxcl "
 disableLanguages = []
