@@ -26,5 +26,6 @@ fields:
   description: Meta description
 pages:
 - config.toml
+- content/blog/classes-et-poo.md
 - content/blog/fonctions-modules-et-packages.md
 - content/blog/m.md
