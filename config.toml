@@ -16,14 +16,6 @@ theme = "github.com/themefisher/twenty-twenty-hugo"
 title = "Technipreneurs-blog"
 [markup.goldmark.renderer]
 unsafe = true
-[[menu.desktop]]
-name = " Introducing Python"
-url = "https://github.com/gabayae/scientific-computing/blob/master/python-lessons/00-Introducing-python.ipynb"
-weight = 2
-[[menu.desktop]]
-URL = "contact"
-name = "Contact"
-weight = 1
 [[menu.main]]
 URL = "sample-page"
 name = "Cours"
