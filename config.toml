@@ -28,9 +28,6 @@ weight = 2
 URL = "sample-page"
 name = "Cours"
 weight = 3
-[[menu.main]]
-name = "Introduction à Python"
-weight = 4
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
