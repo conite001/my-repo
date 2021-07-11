@@ -17,6 +17,9 @@ title = "Technipreneurs-blog"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
+name = "Introduction à Python"
+weight = 4
+[[menu.main]]
 URL = "sample-page"
 name = "Cours"
 weight = 3
