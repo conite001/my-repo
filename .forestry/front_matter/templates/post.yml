@@ -28,4 +28,5 @@ pages:
 - config.toml
 - content/blog/classes-et-poo.md
 - content/blog/fonctions-modules-et-packages.md
+- content/blog/introduction-a-matplotlib.md
 - content/blog/m.md
