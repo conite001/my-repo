@@ -1,5 +1,5 @@
 ---
-title: Theatre of Operations
+title: " Chaînes de caractères"
 date: 2020-03-14T15:40:24.000+06:00
 image: images/2020-three-quarters-3.png
 author:
