@@ -6,6 +6,6 @@ description = ""
 draft = true
 image = ""
 tags = []
-title = "m"
+title = "Variables et affectations"
 
 +++
