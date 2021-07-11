@@ -16,24 +16,21 @@ theme = "github.com/themefisher/twenty-twenty-hugo"
 title = "Technipreneurs-blog"
 [markup.goldmark.renderer]
 unsafe = true
-[[menu.desktop]]
-name = "Python"
+[[menu.main]]
+URL = "/"
+name = "Home"
 weight = 1
-[[menu.main]]
-name = "Introduction à Python"
-weight = 4
-[[menu.main]]
-URL = "sample-page"
-name = "Cours"
-weight = 3
 [[menu.main]]
 URL = "about"
 name = "About"
 weight = 2
 [[menu.main]]
-URL = "/"
-name = "Home"
-weight = 1
+URL = "sample-page"
+name = "Cours"
+weight = 3
+[[menu.main]]
+name = "Introduction à Python"
+weight = 4
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
