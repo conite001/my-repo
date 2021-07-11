@@ -1,43 +1,45 @@
+author = []
 baseURL = "/"
+categories = [""]
+date = ""
+description = "lriehoipezgiofdhn kefhsdvcx jnkjcx nkjn bdfjsbnxkjvdsjnbi dfksi pfdsib n posdkfjcvn i pdsfln bkfdlnkci bndqoib ck i fdnoqskldskwxcl "
 disableLanguages = []
 disqusShortname = ""
 googleAnalytics = ""
+image = ""
 languageCode = "en-us"
 languageName = "En"
 paginate = "6"
 summaryLength = "10"
+tags = []
 theme = "github.com/themefisher/twenty-twenty-hugo"
-title = "Twenty Twenty Hugo for Forestry"
+title = "Technipreneurs-blog"
 [markup.goldmark.renderer]
 unsafe = true
-[[menu.desktop]]
-name = " Introducing Python"
-url = "https://github.com/gabayae/scientific-computing/blob/master/python-lessons/00-Introducing-python.ipynb"
-weight = 2
 [[menu.desktop]]
 URL = "contact"
 name = "Contact"
 weight = 1
 [[menu.main]]
-URL = "sample-page"
-name = "Sample Page"
-weight = 5
+URL = "/"
+name = "Home"
+weight = 1
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 4
+URL = "about"
+name = "A propos de nous"
+weight = 2
 [[menu.main]]
 URL = "blog"
 name = "Blog"
 weight = 3
 [[menu.main]]
-URL = "about"
-name = "About"
-weight = 2
+URL = "contact"
+name = "Contact"
+weight = 4
 [[menu.main]]
-URL = "/"
-name = "Home"
-weight = 1
+URL = "sample-page"
+name = "Sample Page"
+weight = 5
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
