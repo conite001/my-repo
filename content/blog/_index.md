@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Python-Blog
 description: This is meta description
 
 ---
